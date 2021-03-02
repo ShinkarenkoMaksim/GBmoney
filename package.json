@@ -1,4 +1,7 @@
 {
+    "engines": {
+        "node": "12.x"
+    },
     "private": true,
     "scripts": {
         "dev": "npm run development",
@@ -29,8 +32,5 @@
         "vue-easy-dnd": "^1.8.3",
         "vue-router": "^3.3.4",
         "vuex": "^3.5.1"
-    },
-    "engines": {
-        "node": "12.x"
     }
 }
